@@ -45,8 +45,8 @@ async def get_system_date(task_type=None):
 # CONFIGURATION
 # ---------------------------------------------------------
 
-BOT_TOKEN  = "8585574262:AAH0Nom2DLzZ79gGOBNTtmLvsR0Mn7eyBWw"
-ADMIN_ID   = 8147129409   # আপনার Telegram User ID
+BOT_TOKEN  = "8991667047:AAGcH-2rWSeI3kxdE6x-QiXzBFC3GT52m_8"
+ADMIN_ID   =  8102111042  # আপনার Telegram User ID
 MONGO_URI  = "mongodb+srv://alamin119913_db_user:7weZEhCDnZHdgEM4@cluster0.dgqsfwy.mongodb.net/?appName=Cluster0"
 
 CHANNEL_LINK = "https://t.me/Ariyan_Earning_Shop"
