@@ -47,14 +47,14 @@ async def get_system_date(task_type=None):
 
 BOT_TOKEN  = "8991667047:AAGcH-2rWSeI3kxdE6x-QiXzBFC3GT52m_8"
 ADMIN_ID   =  8102111042  # আপনার Telegram User ID
-MONGO_URI  = "mongodb+srv://alamin119911_db_user:0EVa6QO90RJViDs4@cluster0.zp5aolm.mongodb.net"
+MONGO_URI  = "mongodb+srv://alamin119913_db_user:7weZEhCDnZHdgEM4@cluster0.dgqsfwy.mongodb.net/?appName=Cluster0"
 
 CHANNEL_LINK = "https://t.me/Ariyan_Earning_Shop"
 CHANNEL_ID_STR = ""
 BOT_USERNAME = "facebook_bazaarbot"   # fallback only — runtime fetches real username
 BOT_NAME = "Facebook bazar"
 
-# Cache for the actual bot username fetched at runtime
+# Cache for the actual bot username fetched at at runt
 _BOT_USERNAME_CACHE: str | None = None
 
 async def get_bot_username(bot: Bot) -> str:
