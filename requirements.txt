@@ -1,0 +1,7 @@
+aiogram
+aiohttp
+motor
+pymongo
+pyotp
+faker
+openpyxl
